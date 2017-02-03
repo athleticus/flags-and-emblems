@@ -1,0 +1,28 @@
+{
+  "name": "flags-and-emblems",
+  "version": "0.1.0",
+  "description": "Collection of svg flags & emblems from states & regions around the world, with css styles.",
+  "main": "index.js",
+  "dependencies": {
+    "bluebird": "3.4.7",
+    "fs-extra": "2.0.0",
+    "jquery": "3.1.1",
+    "jsdom": "9.9.1",
+    "request": "2.79.0",
+    "request-promise": "4.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/athleticus/flags-and-emblems.git"
+  },
+  "author": "Ben Martin <ben@benmartinstudios.com> (http://benmartinstudios.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/athleticus/flags-and-emblems/issues"
+  },
+  "homepage": "https://github.com/athleticus/flags-and-emblems#readme"
+}
